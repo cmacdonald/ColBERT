@@ -1,6 +1,6 @@
 transformers>=3.0.2,<5
 ujson
-mlflow
+mlflow<=2.5
 tensorboard
 tqdm
 torch
